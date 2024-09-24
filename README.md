@@ -22,7 +22,7 @@
         
    Esses factores combinados tornam o Postman numa ferramenta robusta e acessível para desenvolvedores, testers e outros profissionais que trabalham com APIs.
 
-2. Explica os use case de teste:
+2. Explica os use case de teste
 
    **2.1. Teste de Requisição Básica (Happy Path)**
    
