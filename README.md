@@ -406,7 +406,7 @@ Os testes de carga são essenciais para garantir que a **API GoREST** possa supo
 
 **Deploy Automático**: Automatizar o deploy para produção somente após a aprovação dos testes em _staging_.
 
-**Monitoramento e Feedback:** 
+**Monitorização e Feedback:** 
 
 **Monitorização Contínua:** Utilizar ferramentas de monitorização para observar o desempenho da API em produção.
 
